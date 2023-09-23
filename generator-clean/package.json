@@ -1,0 +1,15 @@
+{
+  "name": "generator-clean",
+  "version": "0.1.0",
+  "description": "",
+  "type": "commonjs",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^5.8.0"
+  }
+}
